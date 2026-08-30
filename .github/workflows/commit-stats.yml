@@ -7,6 +7,10 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "assets/commit-stats.svg"
+      - "assets/commit-stats.png"
+      - "README.md"
 
 permissions:
   contents: write
@@ -18,18 +22,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate commit stats SVG
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install Pillow
+
+      - name: Generate commit stats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          chmod +x scripts/generate-commit-stats.sh
-          ./scripts/generate-commit-stats.sh aliashfak178 assets/commit-stats.svg
-
-      - name: Convert SVG to PNG for README
-        run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y librsvg2-bin
-          rsvg-convert -w 900 assets/commit-stats.svg -o assets/commit-stats.png
+        run: python3 scripts/generate_commit_stats.py aliashfak178 assets/commit-stats.svg assets/commit-stats.png
 
       - name: Commit and push updated stats
         run: |
@@ -39,6 +43,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: update commit activity stats"
+            git commit -m "chore: update commit activity stats [skip ci]"
             git push
           fi

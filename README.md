@@ -201,9 +201,11 @@ Python / ML             : ▰▰▰▰▰▱▱▱▱▱  60%  █████�
 
 <br/>
 
-<img src="https://ghstats.dev/api/mini?username=aliashfak178&theme=radical&style=for-the-badge" alt="Live activity badge"/>
+<img src="https://ghstats.dev/api/mini?username=aliashfak178&theme=radical&style=for-the-badge&hide=stars,issues,repos,followers,prs,contributions,avg,trend,grade,active_day,streak" alt="Commits this week"/>
+&nbsp;
+<img src="https://ghstats.dev/api/mini?username=aliashfak178&theme=radical&style=for-the-badge&hide=stars,issues,repos,followers,prs,week,contributions,avg,trend,grade,active_day,streak" alt="Total commits this year"/>
 
-<sub>4-panel stats refresh every 6 hours via GitHub Actions</sub>
+<sub>4-panel stats use live GitHub contribution data | Auto-refreshes every 6 hours</sub>
 
 </div>
 
