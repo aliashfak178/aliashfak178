@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- ═══ LAYER 1 · Animated neon wave header ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,25:764ba2,50:f093fb,75:667eea,100:764ba2&height=220&section=header&text=ASHFAQUE%20ALI&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descSize=20&descAlignY=62&stroke=ffffff&strokeWidth=0.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,25:764ba2,50:f093fb,75:667eea,100:764ba2&height=220&section=header&text=ASHFAQUE%20ALI&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%3C%20Salesforce%20%26%20Full%20Stack%20Developer%20%2F%3E&descSize=18&descAlignY=62&stroke=ffffff&strokeWidth=0.5" width="100%"/>
 
 <!-- ═══ LAYER 2 · Orbitron hero typing ═══ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2800&pause=900&color=F093FB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=70&lines=ENGINEERING+THE+WEB+%E2%9A%A1;MERN+%2B+ANGULAR+%2B+OPEN+SOURCE;5%E2%80%936+HRS%2FDAY+LEARNING+MODE+%F0%9F%94%A5" alt="Hero typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2800&pause=900&color=F093FB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=70&lines=SALESFORCE+%2B+CLOUD+ARCHITECT+%E2%9A%A1;OMNISTUDIO+%C2%B7+APEX+%C2%B7+LWC+%C2%B7+ANGULAR;5%E2%80%936+HRS%2FDAY+LEARNING+MODE+%F0%9F%94%A5" alt="Hero typing"/>
 
 <!-- ═══ LAYER 3 · Terminal boot typing ═══ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%24+sudo+apt+install+passion;%24+npm+run+build-dreams;%24+git+commit+-m+%22ship+it%22;%24+./deploy.sh+%E2%86%92+SUCCESS+%E2%9C%93" alt="Terminal boot"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%24+sfdx+force%3Asource%3Adeploy;%24+apex+run+test+--all;%24+copado+pipeline+deploy;%24+certification%3A+ALL+CLEARED+%E2%9C%93" alt="Terminal boot"/>
 
 <br/>
 
@@ -15,9 +15,11 @@
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-Online-00ff88?style=for-the-badge&labelColor=0d1117" alt="status"/>
 &nbsp;
-<img src="https://img.shields.io/badge/BCA-Computer%20Apps-764ba2?style=for-the-badge&labelColor=0d1117" alt="bca"/>
+<img src="https://img.shields.io/badge/MCA-Completed-764ba2?style=for-the-badge&labelColor=0d1117" alt="mca"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Angular-f093fb?style=for-the-badge&labelColor=0d1117" alt="stack"/>
+<img src="https://img.shields.io/badge/Salesforce-PD1%20Certified-00A1E0?style=for-the-badge&labelColor=0d1117&logo=salesforce&logoColor=white" alt="pd1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Stack-Salesforce%20%2B%20Angular-f093fb?style=for-the-badge&labelColor=0d1117" alt="stack"/>
 
 </div>
 
@@ -36,14 +38,14 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/ROLE-Full_Stack_Dev-667eea?style=for-the-badge&labelColor=161b22" alt="role"/><br/><br/>
+<img src="https://img.shields.io/badge/ROLE-Salesforce_Dev-667eea?style=for-the-badge&labelColor=161b22" alt="role"/><br/><br/>
 <b>🎯 Mission</b><br/>
-Build scalable web apps
+Build cloud-native Salesforce solutions
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/EDU-BCA_Student-764ba2?style=for-the-badge&labelColor=161b22" alt="edu"/><br/><br/>
+<img src="https://img.shields.io/badge/EDU-MCA_Completed-764ba2?style=for-the-badge&labelColor=161b22" alt="edu"/><br/><br/>
 <b>📚 Focus</b><br/>
-Angular · System Design
+Salesforce · OmniStudio · Angular
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/MODE-Learning-00ff88?style=for-the-badge&labelColor=161b22" alt="mode"/><br/><br/>
@@ -72,14 +74,20 @@ Open source contributor
 {
   "name": "Ashfaque Ali",
   "username": "aliashfak178",
-  "role": "Full Stack Developer",
-  "education": "BCA — Bachelor of Computer Applications",
-  "stack": ["MongoDB", "Express", "React", "Node.js", "Angular"],
-  "learning": ["Angular", "System Design", "Scalable Architecture"],
+  "role": "Salesforce & Full Stack Developer",
+  "education": "MCA — Master of Computer Applications ✓",
+  "stack": ["Salesforce", "Apex", "LWC", "OmniStudio", "Angular", "Node.js", "MongoDB"],
+  "certifications": [
+    "Platform Developer I (PD1)",
+    "OmniStudio Developer",
+    "Data Architect",
+    "Consumer Goods Cloud",
+    "Copado AI"
+  ],
   "email": "aliashfak178@gmail.com",
   "pronouns": "he/him",
   "funFact": "I spend 5–6 hours learning every single day",
-  "askMeAbout": "MERN, Angular, MongoDB, REST APIs, Open Source"
+  "askMeAbout": "Salesforce, Apex, LWC, OmniStudio, Angular, Copado, Open Source"
 }
 ```
 
@@ -93,16 +101,16 @@ Open source contributor
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,angular,nodejs,mongodb,python,sass,bootstrap,git,linux,docker,postman,firebase,vscode&perline=9" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=salesforce,html,css,js,ts,angular,nodejs,mongodb,python,sass,bootstrap,git,linux,docker,postman,firebase,vscode&perline=9" alt="skills"/>
 
 <br/><br/>
 
 <table>
 <tr>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" width="48"/><br/><sub>Salesforce</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/><sub>HTML5</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/><sub>CSS3</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br/><sub>JS</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br/><sub>React</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48"/><br/><sub>Angular</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br/><sub>Node</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br/><sub>MongoDB</sub></td>
@@ -112,11 +120,11 @@ Open source contributor
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br/><sub>TF</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/><br/><sub>C</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/><br/><sub>C++</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/><br/><sub>C#</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/><br/><sub>PHP</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br/><sub>Linux</sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48"/><br/><sub>Redux</sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48"/><br/><sub>Sass</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48"/><br/><sub>Bootstrap</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/><sub>Git</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br/><sub>Docker</sub></td>
 </tr>
 </table>
 
@@ -131,14 +139,37 @@ Open source contributor
 ```yaml
 # Live proficiency scan · self-assessed · always updating
 
-JavaScript / TypeScript : ▰▰▰▰▰▰▰▰▰▱  90%  ██████████
-React / Redux           : ▰▰▰▰▰▰▰▰▱▱  80%  ████████░░
-Node.js / Express       : ▰▰▰▰▰▰▰▱▱▱  75%  ███████░░░
-MongoDB                 : ▰▰▰▰▰▰▰▱▱▱  70%  ███████░░░
-Angular                 : ▰▰▰▰▰▰▱▱▱▱  60%  ██████░░░░  ← actively leveling up
-Python / ML             : ▰▰▰▰▰▰▱▱▱▱  65%  ██████░░░░
-C / C++ / C#            : ▰▰▰▰▰▱▱▱▱▱  55%  █████░░░░░
+Salesforce Platform     : ▰▰▰▰▰▰▰▰▰▱  92%  ██████████
+Apex / LWC / OmniStudio : ▰▰▰▰▰▰▰▰▰▱  90%  ██████████
+JavaScript / TypeScript : ▰▰▰▰▰▰▰▰▱▱  85%  ████████░░
+Angular                 : ▰▰▰▰▰▰▰▱▱▱  75%  ███████░░░
+Node.js / Express       : ▰▰▰▰▰▰▱▱▱▱  70%  ██████░░░░
+MongoDB                 : ▰▰▰▰▰▰▱▱▱▱  68%  ██████░░░░
+Copado / DevOps         : ▰▰▰▰▰▰▱▱▱▱  72%  ██████░░░░
+Python / ML             : ▰▰▰▰▰▱▱▱▱▱  60%  █████░░░░░
 ```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=55&text=SALESFORCE%20CERTIFICATIONS&fontSize=20&color=0:00A1E0,100:667eea&fontColor=fff&animation=blinking" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Platform_Developer_I-PD1%20%E2%9C%93-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=161b22" alt="PD1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OmniStudio-Developer%20%E2%9C%93-764ba2?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=161b22" alt="OmniStudio"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Data-Architect%20%E2%9C%93-667eea?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=161b22" alt="Data Architect"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Consumer_Goods-Cloud%20%E2%9C%93-f093fb?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=161b22" alt="Consumer Goods Cloud"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Copado-AI%20%E2%9C%93-00ff88?style=for-the-badge&logo=robot&logoColor=black&labelColor=161b22" alt="Copado AI"/>
+
+</div>
 
 <br/>
 
@@ -187,23 +218,25 @@ C / C++ / C#            : ▰▰▰▰▰▱▱▱▱▱  55%  █████�
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=55&text=LEARNING%20ROADMAP&fontSize=22&color=764ba2&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=55&text=CAREER%20ROADMAP&fontSize=22&color=764ba2&fontColor=fff" width="100%"/>
 
 <br/>
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#667eea','primaryTextColor':'#fff','primaryBorderColor':'#764ba2','lineColor':'#f093fb','secondaryColor':'#161b22','tertiaryColor':'#0d1117'}}}%%
 graph TB
-    A["🌐 HTML · CSS · JS"] --> B["⚛️ React + Redux"]
-    B --> C["🟢 Node + Express"]
-    C --> D["🍃 MongoDB"]
-    D --> E["🚀 MERN Applications"]
-    E --> F["🅰️ Angular Mastery"]
-    F --> G["👑 Full Stack Architect"]
+    A["🎓 MCA Completed"] --> B["☁️ Salesforce Platform"]
+    B --> C["📜 PD1 Certified"]
+    C --> D["⚡ Apex · LWC · OmniStudio"]
+    D --> E["🏗️ Data Architect"]
+    E --> F["🛒 Consumer Goods Cloud"]
+    F --> G["🤖 Copado AI"]
+    G --> H["👑 Salesforce Cloud Architect"]
 
     style A fill:#667eea,stroke:#fff,color:#fff
-    style G fill:#f093fb,stroke:#fff,color:#fff
-    style E fill:#764ba2,stroke:#fff,color:#fff
+    style C fill:#00A1E0,stroke:#fff,color:#fff
+    style H fill:#f093fb,stroke:#fff,color:#fff
+    style G fill:#00ff88,stroke:#fff,color:#000
 ```
 
 <br/>
