@@ -4,10 +4,10 @@
 <img src="https://raw.githubusercontent.com/aliashfak178/aliashfak178/main/assets/banner.svg" alt="Ashfaque Ali — Salesforce Developer"/>
 
 <!-- ═══ LAYER 2 · Orbitron hero typing ═══ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2800&pause=900&color=F093FB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=70&lines=SALESFORCE+%2B+CLOUD+ARCHITECT+%E2%9A%A1;OMNISTUDIO+%C2%B7+APEX+%C2%B7+LWC+%C2%B7+ANGULAR;5%E2%80%936+HRS%2FDAY+LEARNING+MODE+%F0%9F%94%A5" alt="Hero typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2800&pause=900&color=F093FB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=70&lines=SALESFORCE+%2B+CLOUD+ARCHITECT;OMNISTUDIO+%7C+APEX+%7C+LWC+%7C+ANGULAR;5-6+HRS%2FDAY+LEARNING+MODE" alt="Hero typing"/>
 
 <!-- ═══ LAYER 3 · Terminal boot typing ═══ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%24+sfdx+force%3Asource%3Adeploy;%24+apex+run+test+--all;%24+copado+pipeline+deploy;%24+certification%3A+ALL+CLEARED+%E2%9C%93" alt="Terminal boot"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%24+sfdx+force%3Asource%3Adeploy;%24+apex+run+test+--all;%24+copado+pipeline+deploy;%24+certification%3A+ALL+CLEARED" alt="Terminal boot"/>
 
 <br/>
 
@@ -45,7 +45,7 @@ Build cloud-native Salesforce solutions
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/EDU-MCA_Completed-764ba2?style=for-the-badge&labelColor=161b22" alt="edu"/><br/><br/>
 <b>📚 Focus</b><br/>
-Salesforce · OmniStudio · Angular
+Salesforce | OmniStudio | Angular
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/MODE-Learning-00ff88?style=for-the-badge&labelColor=161b22" alt="mode"/><br/><br/>
@@ -62,7 +62,7 @@ Open source contributor
 
 <br/>
 
-<img src="https://img.shields.io/badge/▓▓▓-IDENTITY_FILE-▓▓▓-667eea?style=for-the-badge&labelColor=0d1117&color=764ba2" alt="Identity File"/>
+## 🖥️ IDENTITY FILE
 
 <br/>
 
@@ -95,7 +95,7 @@ Open source contributor
 
 <br/>
 
-<img src="https://img.shields.io/badge/▓▓▓-TECH_ARSENAL-▓▓▓-764ba2?style=for-the-badge&labelColor=0d1117&color=f093fb" alt="Tech Arsenal"/>
+## 🛠️ TECH ARSENAL
 
 <br/>
 
@@ -132,7 +132,7 @@ Open source contributor
 
 <br/>
 
-<img src="https://img.shields.io/badge/▓▓▓-SKILL_MATRIX-▓▓▓-f093fb?style=for-the-badge&labelColor=0d1117&color=667eea" alt="Skill Matrix"/>
+## ⚡ SKILL MATRIX
 
 <br/>
 
@@ -151,29 +151,29 @@ Python / ML             : ▰▰▰▰▰▱▱▱▱▱  60%  █████�
 
 <br/>
 
-<img src="https://img.shields.io/badge/▓▓▓-SALESFORCE_CERTIFICATIONS-▓▓▓-00A1E0?style=for-the-badge&labelColor=0d1117&color=667eea" alt="Certifications"/>
+## 🏆 SALESFORCE CERTIFICATIONS
 
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Platform_Developer_I-PD1%20%E2%9C%93-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=161b22" alt="PD1"/>
+<img src="https://img.shields.io/badge/Platform_Developer_I-PD1_Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=161b22" alt="PD1"/>
 &nbsp;
-<img src="https://img.shields.io/badge/OmniStudio-Developer%20%E2%9C%93-764ba2?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=161b22" alt="OmniStudio"/>
+<img src="https://img.shields.io/badge/OmniStudio-Developer_Certified-764ba2?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=161b22" alt="OmniStudio"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Data-Architect%20%E2%9C%93-667eea?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=161b22" alt="Data Architect"/>
+<img src="https://img.shields.io/badge/Data-Architect_Certified-667eea?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=161b22" alt="Data Architect"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Consumer_Goods-Cloud%20%E2%9C%93-f093fb?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=161b22" alt="Consumer Goods Cloud"/>
+<img src="https://img.shields.io/badge/Consumer_Goods-Cloud_Certified-f093fb?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=161b22" alt="Consumer Goods Cloud"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Copado-AI%20%E2%9C%93-00ff88?style=for-the-badge&logo=robot&logoColor=black&labelColor=161b22" alt="Copado AI"/>
+<img src="https://img.shields.io/badge/Copado-AI_Certified-00ff88?style=for-the-badge&logo=robot&logoColor=black&labelColor=161b22" alt="Copado AI"/>
 
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/▓▓▓-QUOTE_ENGINE-▓▓▓-764ba2?style=for-the-badge&labelColor=0d1117&color=f093fb" alt="Quote Engine"/>
+## 💬 QUOTE ENGINE
 
 <br/>
 
@@ -183,7 +183,7 @@ Python / ML             : ▰▰▰▰▰▱▱▱▱▱  60%  █████�
 
 <br/>
 
-<img src="https://img.shields.io/badge/▓▓▓-GITHUB_ANALYTICS-▓▓▓-667eea?style=for-the-badge&labelColor=0d1117&color=764ba2" alt="GitHub Analytics"/>
+## 📊 GITHUB ANALYTICS
 
 <br/>
 
@@ -218,7 +218,7 @@ Python / ML             : ▰▰▰▰▰▱▱▱▱▱  60%  █████�
 
 <br/>
 
-<img src="https://img.shields.io/badge/▓▓▓-CAREER_ROADMAP-▓▓▓-764ba2?style=for-the-badge&labelColor=0d1117&color=f093fb" alt="Career Roadmap"/>
+## 🗺️ CAREER ROADMAP
 
 <br/>
 
@@ -227,7 +227,7 @@ Python / ML             : ▰▰▰▰▰▱▱▱▱▱  60%  █████�
 graph TB
     A["🎓 MCA Completed"] --> B["☁️ Salesforce Platform"]
     B --> C["📜 PD1 Certified"]
-    C --> D["⚡ Apex · LWC · OmniStudio"]
+    C --> D["Apex | LWC | OmniStudio"]
     D --> E["🏗️ Data Architect"]
     E --> F["🛒 Consumer Goods Cloud"]
     F --> G["🤖 Copado AI"]
@@ -241,14 +241,14 @@ graph TB
 
 <br/>
 
-<img src="https://img.shields.io/badge/▓▓▓-CONTRIBUTION_SNAKE-▓▓▓-667eea?style=for-the-badge&labelColor=0d1117&color=f093fb" alt="Contribution Snake"/>
+## 🐍 CONTRIBUTION SNAKE
 
 <br/>
 
 <div align="center">
 
-<!-- Snake appears after Actions workflow runs -->
-<img src="https://raw.githubusercontent.com/aliashfak178/aliashfak178/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+<!-- Snake from output branch after workflow; placeholder until then -->
+<img src="https://raw.githubusercontent.com/aliashfak178/aliashfak178/main/assets/snake-placeholder.svg" alt="Contribution snake"/>
 
 <sub>🐍 Snake auto-updates daily via GitHub Actions · Run workflow once if not visible yet</sub>
 
@@ -256,7 +256,7 @@ graph TB
 
 <br/>
 
-<img src="https://img.shields.io/badge/▓▓▓-CONNECT-▓▓▓-f093fb?style=for-the-badge&labelColor=0d1117&color=667eea" alt="Connect"/>
+## 🤝 CONNECT
 
 <br/>
 
@@ -270,7 +270,7 @@ graph TB
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=3000&pause=1500&color=667EEA&center=true&repeat=true&width=600&lines=Thanks+for+visiting+%E2%9C%A8;Let's+build+something+epic.;See+you+in+the+code." alt="Footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=3000&pause=1500&color=667EEA&center=true&repeat=true&width=600&lines=Thanks+for+visiting;Let%27s+build+something+epic.;See+you+in+the+code." alt="Footer typing"/>
 
 <br/><br/>
 

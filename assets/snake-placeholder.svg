@@ -1,8 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
   <rect width="900" height="120" fill="#0d1117" rx="8" stroke="#30363d"/>
-  <text x="450" y="45" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#667eea">= Contribution Snake</text>
-  <text x="450" y="72" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#8b949e">Auto-generates after you push  check Actions tab ’ Run workflow</text>
-  <!-- mini snake path animation -->
+  <text x="450" y="45" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#667eea">Contribution Snake</text>
+  <text x="450" y="72" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#8b949e">Run GitHub Actions workflow to generate live snake</text>
   <circle r="6" fill="#667eea">
     <animateMotion dur="4s" repeatCount="indefinite" path="M 100 95 Q 250 60 450 95 T 800 95"/>
   </circle>

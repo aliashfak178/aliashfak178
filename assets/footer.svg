@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90">
   <defs>
     <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -13,5 +14,5 @@
               M0,50 C200,80 400,20 600,50 C800,80 1000,20 1200,50 L1200,90 L0,90 Z;
               M0,50 C200,20 400,80 600,50 C800,20 1000,80 1200,50 L1200,90 L0,90 Z"/>
   </path>
-  <text x="600" y="55" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#c9d1d9">&lt;/dev&gt; · Ashfaque Ali · Salesforce Developer · 2026</text>
+  <text x="600" y="55" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#c9d1d9">&lt;/dev&gt; | Ashfaque Ali | Salesforce Developer | 2026</text>
 </svg>

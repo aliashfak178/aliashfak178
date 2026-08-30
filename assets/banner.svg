@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -44,8 +45,8 @@
   </rect>
 
   <text x="600" y="88" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="url(#glow)">Ashfaque Ali</text>
-  <text x="600" y="125" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#8b949e" letter-spacing="3">SALESFORCE DEVELOPER · PD1 CERTIFIED · MCA</text>
-  <text x="600" y="155" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#667eea" letter-spacing="2">OMNISTUDIO · DATA ARCHITECT · COPADO AI</text>
+  <text x="600" y="125" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#8b949e" letter-spacing="3">SALESFORCE DEVELOPER | PD1 CERTIFIED | MCA</text>
+  <text x="600" y="155" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#667eea" letter-spacing="2">OMNISTUDIO | DATA ARCHITECT | COPADO AI</text>
 
   <path d="M 40 40 L 40 70 L 70 70" fill="none" stroke="#00A1E0" stroke-width="2" opacity="0.7"/>
   <path d="M 1160 40 L 1160 70 L 1130 70" fill="none" stroke="#f093fb" stroke-width="2" opacity="0.7"/>
