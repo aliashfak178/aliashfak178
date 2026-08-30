@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ═══ LAYER 1 · Animated neon wave header ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,25:764ba2,50:f093fb,75:667eea,100:764ba2&height=220&section=header&text=ASHFAQUE%20ALI&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%3C%20Salesforce%20%26%20Full%20Stack%20Developer%20%2F%3E&descSize=18&descAlignY=62&stroke=ffffff&strokeWidth=0.5" width="100%"/>
+<!-- ═══ LAYER 1 · Self-hosted animated banner (reliable on GitHub) ═══ -->
+<img src="https://raw.githubusercontent.com/aliashfak178/aliashfak178/main/assets/banner.svg" alt="Ashfaque Ali — Salesforce Developer"/>
 
 <!-- ═══ LAYER 2 · Orbitron hero typing ═══ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2800&pause=900&color=F093FB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=70&lines=SALESFORCE+%2B+CLOUD+ARCHITECT+%E2%9A%A1;OMNISTUDIO+%C2%B7+APEX+%C2%B7+LWC+%C2%B7+ANGULAR;5%E2%80%936+HRS%2FDAY+LEARNING+MODE+%F0%9F%94%A5" alt="Hero typing"/>
@@ -62,7 +62,7 @@ Open source contributor
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=55&text=IDENTITY%20FILE&fontSize=22&color=0:667eea,100:764ba2&stroke=667eea&fontColor=fff&animation=blinking" width="100%"/>
+<img src="https://img.shields.io/badge/▓▓▓-IDENTITY_FILE-▓▓▓-667eea?style=for-the-badge&labelColor=0d1117&color=764ba2" alt="Identity File"/>
 
 <br/>
 
@@ -95,7 +95,7 @@ Open source contributor
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=764ba2&height=55&text=TECH%20ARSENAL&fontSize=22&fontColor=fff&animation=scaleIn&stroke=f093fb&strokeWidth=1" width="100%"/>
+<img src="https://img.shields.io/badge/▓▓▓-TECH_ARSENAL-▓▓▓-764ba2?style=for-the-badge&labelColor=0d1117&color=f093fb" alt="Tech Arsenal"/>
 
 <br/>
 
@@ -132,7 +132,7 @@ Open source contributor
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=55&text=SKILL%20MATRIX&fontSize=22&color=f093fb&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://img.shields.io/badge/▓▓▓-SKILL_MATRIX-▓▓▓-f093fb?style=for-the-badge&labelColor=0d1117&color=667eea" alt="Skill Matrix"/>
 
 <br/>
 
@@ -151,7 +151,7 @@ Python / ML             : ▰▰▰▰▰▱▱▱▱▱  60%  █████�
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=55&text=SALESFORCE%20CERTIFICATIONS&fontSize=20&color=0:00A1E0,100:667eea&fontColor=fff&animation=blinking" width="100%"/>
+<img src="https://img.shields.io/badge/▓▓▓-SALESFORCE_CERTIFICATIONS-▓▓▓-00A1E0?style=for-the-badge&labelColor=0d1117&color=667eea" alt="Certifications"/>
 
 <br/>
 
@@ -173,7 +173,7 @@ Python / ML             : ▰▰▰▰▰▱▱▱▱▱  60%  █████�
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=55&text=QUOTE%20ENGINE&fontSize=22&color=0:764ba2,100:f093fb&fontColor=fff&animation=blinking" width="100%"/>
+<img src="https://img.shields.io/badge/▓▓▓-QUOTE_ENGINE-▓▓▓-764ba2?style=for-the-badge&labelColor=0d1117&color=f093fb" alt="Quote Engine"/>
 
 <br/>
 
@@ -183,7 +183,7 @@ Python / ML             : ▰▰▰▰▰▱▱▱▱▱  60%  █████�
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=667eea&height=55&text=GITHUB%20ANALYTICS&fontSize=22&fontColor=fff&animation=scaleIn" width="100%"/>
+<img src="https://img.shields.io/badge/▓▓▓-GITHUB_ANALYTICS-▓▓▓-667eea?style=for-the-badge&labelColor=0d1117&color=764ba2" alt="GitHub Analytics"/>
 
 <br/>
 
@@ -218,7 +218,7 @@ Python / ML             : ▰▰▰▰▰▱▱▱▱▱  60%  █████�
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=55&text=CAREER%20ROADMAP&fontSize=22&color=764ba2&fontColor=fff" width="100%"/>
+<img src="https://img.shields.io/badge/▓▓▓-CAREER_ROADMAP-▓▓▓-764ba2?style=for-the-badge&labelColor=0d1117&color=f093fb" alt="Career Roadmap"/>
 
 <br/>
 
@@ -241,7 +241,7 @@ graph TB
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=55&text=CONTRIBUTION%20SNAKE&fontSize=22&color=0:667eea,100:f093fb&fontColor=fff&animation=blinking" width="100%"/>
+<img src="https://img.shields.io/badge/▓▓▓-CONTRIBUTION_SNAKE-▓▓▓-667eea?style=for-the-badge&labelColor=0d1117&color=f093fb" alt="Contribution Snake"/>
 
 <br/>
 
@@ -256,7 +256,7 @@ graph TB
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=f093fb&height=55&text=CONNECT&fontSize=22&fontColor=fff&animation=scaleIn" width="100%"/>
+<img src="https://img.shields.io/badge/▓▓▓-CONNECT-▓▓▓-f093fb?style=for-the-badge&labelColor=0d1117&color=667eea" alt="Connect"/>
 
 <br/>
 
@@ -274,6 +274,6 @@ graph TB
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=100&section=footer&fontSize=13&fontColor=ffffff&animation=twinkling&text=%3C%2Fdev%3E+%C2%B7+Ashfaque+Ali+%C2%B7+2026" width="100%"/>
+<img src="https://raw.githubusercontent.com/aliashfak178/aliashfak178/main/assets/footer.svg" alt="Footer"/>
 
 </div>

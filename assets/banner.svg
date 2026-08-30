@@ -6,14 +6,14 @@
       <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
     <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#667eea">
+      <stop offset="0%" stop-color="#00A1E0">
+        <animate attributeName="stop-color" values="#00A1E0;#667eea;#764ba2;#00A1E0" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#667eea">
         <animate attributeName="stop-color" values="#667eea;#764ba2;#f093fb;#667eea" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" stop-color="#764ba2">
-        <animate attributeName="stop-color" values="#764ba2;#f093fb;#667eea;#764ba2" dur="6s" repeatCount="indefinite"/>
-      </stop>
       <stop offset="100%" stop-color="#f093fb">
-        <animate attributeName="stop-color" values="#f093fb;#667eea;#764ba2;#f093fb" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#f093fb;#00A1E0;#667eea;#f093fb" dur="6s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
     <filter id="blur">
@@ -23,49 +23,32 @@
 
   <rect width="1200" height="220" fill="url(#bg)" rx="16"/>
 
-  <!-- ambient orbs -->
-  <circle cx="180" cy="110" r="90" fill="#667eea" opacity="0.25" filter="url(#blur)">
+  <circle cx="180" cy="110" r="90" fill="#00A1E0" opacity="0.2" filter="url(#blur)">
     <animate attributeName="cx" values="180;220;180" dur="8s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="980" cy="80" r="110" fill="#f093fb" opacity="0.2" filter="url(#blur)">
+  <circle cx="980" cy="80" r="110" fill="#f093fb" opacity="0.18" filter="url(#blur)">
     <animate attributeName="cy" values="80;130;80" dur="7s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="620" cy="180" r="70" fill="#764ba2" opacity="0.22" filter="url(#blur)">
+  <circle cx="620" cy="180" r="70" fill="#667eea" opacity="0.22" filter="url(#blur)">
     <animate attributeName="r" values="70;95;70" dur="5s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- grid lines -->
-  <g stroke="#667eea" stroke-opacity="0.08" stroke-width="1">
+  <g stroke="#00A1E0" stroke-opacity="0.1" stroke-width="1">
     <line x1="0" y1="55" x2="1200" y2="55"/>
     <line x1="0" y1="110" x2="1200" y2="110"/>
     <line x1="0" y1="165" x2="1200" y2="165"/>
-    <line x1="200" y1="0" x2="200" y2="220"/>
-    <line x1="400" y1="0" x2="400" y2="220"/>
-    <line x1="600" y1="0" x2="600" y2="220"/>
-    <line x1="800" y1="0" x2="800" y2="220"/>
-    <line x1="1000" y1="0" x2="1000" y2="220"/>
   </g>
 
-  <!-- accent line -->
   <rect x="60" y="200" width="1080" height="3" fill="url(#glow)" rx="2">
     <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- floating particles -->
-  <g fill="#ffffff" opacity="0.5">
-    <circle cx="120" cy="40" r="2"><animate attributeName="cy" values="40;30;40" dur="4s" repeatCount="indefinite"/></circle>
-    <circle cx="350" cy="170" r="1.5"><animate attributeName="cx" values="350;360;350" dur="5s" repeatCount="indefinite"/></circle>
-    <circle cx="890" cy="50" r="2"><animate attributeName="cy" values="50;65;50" dur="3.5s" repeatCount="indefinite"/></circle>
-    <circle cx="1050" cy="160" r="1.5"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/></circle>
-  </g>
+  <text x="600" y="88" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="url(#glow)">Ashfaque Ali</text>
+  <text x="600" y="125" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#8b949e" letter-spacing="3">SALESFORCE DEVELOPER · PD1 CERTIFIED · MCA</text>
+  <text x="600" y="155" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#667eea" letter-spacing="2">OMNISTUDIO · DATA ARCHITECT · COPADO AI</text>
 
-  <!-- title -->
-  <text x="600" y="95" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="url(#glow)">Ashfaque Ali</text>
-  <text x="600" y="135" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#8b949e" letter-spacing="4">FULL STACK · MERN · ANGULAR · OPEN SOURCE</text>
-
-  <!-- corner brackets -->
-  <path d="M 40 40 L 40 70 L 70 70" fill="none" stroke="#667eea" stroke-width="2" opacity="0.7"/>
+  <path d="M 40 40 L 40 70 L 70 70" fill="none" stroke="#00A1E0" stroke-width="2" opacity="0.7"/>
   <path d="M 1160 40 L 1160 70 L 1130 70" fill="none" stroke="#f093fb" stroke-width="2" opacity="0.7"/>
-  <path d="M 40 180 L 40 150 L 70 150" fill="none" stroke="#764ba2" stroke-width="2" opacity="0.7"/>
-  <path d="M 1160 180 L 1160 150 L 1130 150" fill="none" stroke="#667eea" stroke-width="2" opacity="0.7"/>
+  <path d="M 40 180 L 40 150 L 70 150" fill="none" stroke="#667eea" stroke-width="2" opacity="0.7"/>
+  <path d="M 1160 180 L 1160 150 L 1130 150" fill="none" stroke="#00A1E0" stroke-width="2" opacity="0.7"/>
 </svg>
