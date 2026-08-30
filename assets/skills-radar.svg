@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 380" width="700" height="380">
+  <defs>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#667eea"/>
+      <stop offset="100%" stop-color="#f093fb"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="700" height="380" fill="#0d1117" rx="12" stroke="#30363d" stroke-width="1"/>
+
+  <text x="350" y="35" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#c9d1d9">¡ Skill Radar  Live Proficiency</text>
+
+  <!-- skill bars -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#8b949e">
+    <text x="40" y="75">JavaScript / TypeScript</text>
+    <rect x="220" y="62" width="440" height="18" rx="9" fill="#21262d"/>
+    <rect x="220" y="62" width="396" height="18" rx="9" fill="url(#bar)"><animate attributeName="width" from="0" to="396" dur="1.5s" fill="freeze"/></rect>
+    <text x="670" y="75" text-anchor="end" fill="#667eea">90%</text>
+
+    <text x="40" y="115">React / Redux</text>
+    <rect x="220" y="102" width="440" height="18" rx="9" fill="#21262d"/>
+    <rect x="220" y="102" width="352" height="18" rx="9" fill="url(#bar)"><animate attributeName="width" from="0" to="352" dur="1.8s" fill="freeze"/></rect>
+    <text x="670" y="115" text-anchor="end" fill="#667eea">80%</text>
+
+    <text x="40" y="155">Node.js / Express</text>
+    <rect x="220" y="142" width="440" height="18" rx="9" fill="#21262d"/>
+    <rect x="220" y="142" width="330" height="18" rx="9" fill="url(#bar)"><animate attributeName="width" from="0" to="330" dur="2s" fill="freeze"/></rect>
+    <text x="670" y="155" text-anchor="end" fill="#667eea">75%</text>
+
+    <text x="40" y="195">MongoDB</text>
+    <rect x="220" y="182" width="440" height="18" rx="9" fill="#21262d"/>
+    <rect x="220" y="182" width="308" height="18" rx="9" fill="url(#bar)"><animate attributeName="width" from="0" to="308" dur="2.2s" fill="freeze"/></rect>
+    <text x="670" y="195" text-anchor="end" fill="#667eea">70%</text>
+
+    <text x="40" y="235">Angular</text>
+    <rect x="220" y="222" width="440" height="18" rx="9" fill="#21262d"/>
+    <rect x="220" y="222" width="264" height="18" rx="9" fill="url(#bar)"><animate attributeName="width" from="0" to="264" dur="2.4s" fill="freeze"/></rect>
+    <text x="670" y="235" text-anchor="end" fill="#764ba2">60% · learning</text>
+
+    <text x="40" y="275">Python / ML</text>
+    <rect x="220" y="262" width="440" height="18" rx="9" fill="#21262d"/>
+    <rect x="220" y="262" width="286" height="18" rx="9" fill="url(#bar)"><animate attributeName="width" from="0" to="286" dur="2.6s" fill="freeze"/></rect>
+    <text x="670" y="275" text-anchor="end" fill="#667eea">65%</text>
+
+    <text x="40" y="315">C / C++ / C#</text>
+    <rect x="220" y="302" width="440" height="18" rx="9" fill="#21262d"/>
+    <rect x="220" y="302" width="242" height="18" rx="9" fill="url(#bar)"><animate attributeName="width" from="0" to="242" dur="2.8s" fill="freeze"/></rect>
+    <text x="670" y="315" text-anchor="end" fill="#667eea">55%</text>
+  </g>
+
+  <text x="350" y="360" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#484f58">Self-assessed · Updated 2026 · Always improving =€</text>
+</svg>

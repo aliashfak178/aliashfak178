@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" width="400" height="320">
+  <defs>
+    <linearGradient id="screen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#667eea"/>
+      <stop offset="100%" stop-color="#764ba2"/>
+    </linearGradient>
+    <linearGradient id="desk" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#21262d"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="400" height="320" fill="#0d1117" rx="12"/>
+
+  <!-- monitor -->
+  <rect x="70" y="40" width="260" height="170" rx="10" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <rect x="82" y="52" width="236" height="140" rx="4" fill="#0d1117"/>
+
+  <!-- code lines -->
+  <g font-family="Consolas, monospace" font-size="11">
+    <text x="92" y="72" fill="#667eea">&lt;developer&gt;</text>
+    <text x="102" y="90" fill="#f093fb">name: "Ashfaque"</text>
+    <text x="102" y="108" fill="#79c0ff">stack: ["MERN"]</text>
+    <text x="102" y="126" fill="#7ee787">learning: "Angular"</text>
+    <text x="102" y="144" fill="#ffa657">hours: 5-6/day</text>
+    <text x="92" y="162" fill="#667eea">&lt;/developer&gt;</text>
+    <rect x="92" y="168" width="8" height="14" fill="#667eea" opacity="0.9">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- monitor stand -->
+  <rect x="175" y="210" width="50" height="25" fill="#30363d" rx="2"/>
+  <rect x="140" y="235" width="120" height="8" fill="#21262d" rx="4"/>
+
+  <!-- desk -->
+  <rect x="30" y="250" width="340" height="50" fill="url(#desk)" rx="8"/>
+
+  <!-- keyboard -->
+  <rect x="110" y="262" width="180" height="28" fill="#30363d" rx="4"/>
+  <g fill="#484f58">
+    <rect x="118" y="268" width="12" height="8" rx="1"/>
+    <rect x="134" y="268" width="12" height="8" rx="1"/>
+    <rect x="150" y="268" width="12" height="8" rx="1"/>
+    <rect x="166" y="268" width="12" height="8" rx="1"/>
+    <rect x="182" y="268" width="12" height="8" rx="1"/>
+    <rect x="198" y="268" width="12" height="8" rx="1"/>
+    <rect x="214" y="268" width="12" height="8" rx="1"/>
+    <rect x="230" y="268" width="12" height="8" rx="1"/>
+    <rect x="246" y="268" width="12" height="8" rx="1"/>
+    <rect x="262" y="268" width="12" height="8" rx="1"/>
+  </g>
+
+  <!-- coffee -->
+  <rect x="310" y="240" width="28" height="35" fill="#6e40c9" rx="4"/>
+  <ellipse cx="324" cy="240" rx="14" ry="4" fill="#764ba2"/>
+
+  <!-- glow pulse -->
+  <rect x="82" y="52" width="236" height="140" rx="4" fill="url(#screen)" opacity="0.05">
+    <animate attributeName="opacity" values="0.03;0.12;0.03" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
