@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ═══ LAYER 1 · Self-hosted animated banner (reliable on GitHub) ═══ -->
-<img src="https://raw.githubusercontent.com/aliashfak178/aliashfak178/main/assets/banner.svg" alt="Ashfaque Ali — Salesforce Developer"/>
+<!-- Banner: PNG always renders on GitHub (SVG via raw URL is blocked) -->
+<img src="assets/banner.png" alt="Ashfaque Ali - Salesforce Developer"/>
 
 <!-- ═══ LAYER 2 · Orbitron hero typing ═══ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2800&pause=900&color=F093FB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=70&lines=SALESFORCE+%2B+CLOUD+ARCHITECT;OMNISTUDIO+%7C+APEX+%7C+LWC+%7C+ANGULAR;5-6+HRS%2FDAY+LEARNING+MODE" alt="Hero typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2800&pause=900&color=F093FB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=95&lines=SALESFORCE+%2B+CLOUD+ARCHITECT;OMNISTUDIO+%7C+APEX+%7C+LWC+%7C+ANGULAR;5-6+HRS%2FDAY+LEARNING+MODE" alt="Hero typing"/>
 
 <!-- ═══ LAYER 3 · Terminal boot typing ═══ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%24+sfdx+force%3Asource%3Adeploy;%24+apex+run+test+--all;%24+copado+pipeline+deploy;%24+certification%3A+ALL+CLEARED" alt="Terminal boot"/>
@@ -248,7 +248,7 @@ graph TB
 <div align="center">
 
 <!-- Snake from output branch after workflow; placeholder until then -->
-<img src="https://raw.githubusercontent.com/aliashfak178/aliashfak178/main/assets/snake-placeholder.svg" alt="Contribution snake"/>
+<img src="assets/snake-placeholder.svg" alt="Contribution snake"/>
 
 <sub>🐍 Snake auto-updates daily via GitHub Actions · Run workflow once if not visible yet</sub>
 
@@ -274,6 +274,6 @@ graph TB
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/aliashfak178/aliashfak178/main/assets/footer.svg" alt="Footer"/>
+<img src="assets/footer.png" alt="Footer"/>
 
 </div>
