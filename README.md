@@ -4,7 +4,7 @@
 <img src="assets/banner.png" alt="Ashfaque Ali - Salesforce Developer"/>
 
 <!-- ═══ LAYER 2 · Orbitron hero typing ═══ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2800&pause=900&color=F093FB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=95&lines=SALESFORCE+%2B+CLOUD+ARCHITECT;OMNISTUDIO+%7C+APEX+%7C+LWC+%7C+ANGULAR;5-6+HRS%2FDAY+LEARNING+MODE" alt="Hero typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2800&pause=900&color=F093FB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=95&lines=SALESFORCE+%2B+CLOUD+ARCHITECT;AI+%7C+LangChain+%7C+RAG+%7C+MCP;N8N+%7C+Vector+DB+%7C+AUTOMATION" alt="Hero typing"/>
 
 <!-- ═══ LAYER 3 · Terminal boot typing ═══ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%24+sfdx+force%3Asource%3Adeploy;%24+apex+run+test+--all;%24+copado+pipeline+deploy;%24+certification%3A+ALL+CLEARED" alt="Terminal boot"/>
@@ -19,7 +19,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Salesforce-PD1%20Certified-00A1E0?style=for-the-badge&labelColor=0d1117&logo=salesforce&logoColor=white" alt="pd1"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Stack-Salesforce%20%2B%20Angular-f093fb?style=for-the-badge&labelColor=0d1117" alt="stack"/>
+<img src="https://img.shields.io/badge/Stack-Salesforce%20%2B%20AI-f093fb?style=for-the-badge&labelColor=0d1117" alt="stack"/>
 
 </div>
 
@@ -45,7 +45,7 @@ Build cloud-native Salesforce solutions
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/EDU-MCA_Completed-764ba2?style=for-the-badge&labelColor=161b22" alt="edu"/><br/><br/>
 <b>📚 Focus</b><br/>
-Salesforce | OmniStudio | Angular
+Salesforce | AI | LangChain | n8n
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/MODE-Learning-00ff88?style=for-the-badge&labelColor=161b22" alt="mode"/><br/><br/>
@@ -76,7 +76,7 @@ Open source contributor
   "username": "aliashfak178",
   "role": "Salesforce & Full Stack Developer",
   "education": "MCA — Master of Computer Applications ✓",
-  "stack": ["Salesforce", "Apex", "LWC", "OmniStudio", "Angular", "Node.js", "MongoDB"],
+  "stack": ["Salesforce", "Apex", "LWC", "OmniStudio", "Angular", "Node.js", "MongoDB", "LangChain", "RAG", "n8n", "Vector DB", "MCP Server"],
   "certifications": [
     "Platform Developer I (PD1)",
     "OmniStudio Developer",
@@ -87,7 +87,7 @@ Open source contributor
   "email": "aliashfak178@gmail.com",
   "pronouns": "he/him",
   "funFact": "I spend 5–6 hours learning every single day",
-  "askMeAbout": "Salesforce, Apex, LWC, OmniStudio, Angular, Copado, Open Source"
+  "askMeAbout": "Salesforce, Apex, LWC, LangChain, RAG, n8n, Vector DB, MCP, Copado, Open Source"
 }
 ```
 
@@ -101,9 +101,29 @@ Open source contributor
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=salesforce,html,css,js,ts,angular,nodejs,mongodb,python,sass,bootstrap,git,linux,docker,postman,firebase,vscode&perline=9" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=salesforce,html,css,js,ts,angular,nodejs,mongodb,python,n8n,openai,docker,git,linux,vscode&perline=8" alt="skills"/>
 
 <br/><br/>
+
+**🤖 AI & Automation**
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=161b22" alt="LangChain"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented-667eea?style=for-the-badge&logo=openai&logoColor=white&labelColor=161b22" alt="RAG"/>
+&nbsp;
+<img src="https://img.shields.io/badge/n8n-Workflow_Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white&labelColor=161b22" alt="n8n"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Vector_DB-Embeddings_Store-764ba2?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=161b22" alt="Vector DB"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MCP_Server-Model_Context_Protocol-00ff88?style=for-the-badge&logo=openai&logoColor=black&labelColor=161b22" alt="MCP Server"/>
+
+<br/><br/>
+
+**☁️ Cloud & Full Stack**
+
+<br/>
 
 <table>
 <tr>
@@ -146,6 +166,9 @@ Angular                 : ▰▰▰▰▰▰▰▱▱▱  75%  █████�
 Node.js / Express       : ▰▰▰▰▰▰▱▱▱▱  70%  ██████░░░░
 MongoDB                 : ▰▰▰▰▰▰▱▱▱▱  68%  ██████░░░░
 Copado / DevOps         : ▰▰▰▰▰▰▱▱▱▱  72%  ██████░░░░
+LangChain / RAG         : ▰▰▰▰▰▰▱▱▱▱  70%  ██████░░░░
+n8n / MCP Server        : ▰▰▰▰▰▱▱▱▱▱  65%  █████░░░░░
+Vector DB               : ▰▰▰▰▰▱▱▱▱▱  62%  █████░░░░░
 Python / ML             : ▰▰▰▰▰▱▱▱▱▱  60%  █████░░░░░
 ```
 
@@ -255,10 +278,14 @@ graph TB
     D --> E["🏗️ Data Architect"]
     E --> F["🛒 Consumer Goods Cloud"]
     F --> G["🤖 Copado AI"]
-    G --> H["👑 Salesforce Cloud Architect"]
+    G --> I["🧠 LangChain | RAG | Vector DB"]
+    I --> J["⚡ n8n | MCP Server"]
+    J --> H["👑 Salesforce + AI Architect"]
 
     style A fill:#667eea,stroke:#fff,color:#fff
     style C fill:#00A1E0,stroke:#fff,color:#fff
+    style I fill:#764ba2,stroke:#fff,color:#fff
+    style J fill:#00ff88,stroke:#fff,color:#000
     style H fill:#f093fb,stroke:#fff,color:#fff
     style G fill:#00ff88,stroke:#fff,color:#000
 ```
