@@ -1,0 +1,44 @@
+name: Update Commit Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-commit-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate commit stats SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          chmod +x scripts/generate-commit-stats.sh
+          ./scripts/generate-commit-stats.sh aliashfak178 assets/commit-stats.svg
+
+      - name: Convert SVG to PNG for README
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y librsvg2-bin
+          rsvg-convert -w 900 assets/commit-stats.svg -o assets/commit-stats.png
+
+      - name: Commit and push updated stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/commit-stats.svg assets/commit-stats.png
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update commit activity stats"
+            git push
+          fi

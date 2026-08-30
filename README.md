@@ -187,11 +187,33 @@ Python / ML             : ▰▰▰▰▰▱▱▱▱▱  60%  █████�
 
 <br/>
 
+## 📅 COMMIT ACTIVITY
+
 <div align="center">
 
-<img height="190" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aliashfak178&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&border_radius=16&rank_icon=percentile"/>
+<!-- Live stats: commits, this week, streak, contributions -->
+<img height="190" src="https://ghstats.dev/api/card?username=aliashfak178&theme=radical&custom_title=Commit%20Activity&hide=stars,issues,repos,followers,prs,avg,trend,grade,active_day&show_icons=true&border_radius=16" alt="Commit activity stats"/>
+
+<br/><br/>
+
+<!-- Today | Week | Month | Year (PNG - always renders on GitHub) -->
+<img src="assets/commit-stats.png" alt="Commits today, this week, this month, this year"/>
+
+<br/>
+
+<img src="https://ghstats.dev/api/mini?username=aliashfak178&theme=radical&style=for-the-badge" alt="Live activity badge"/>
+
+<sub>4-panel stats refresh every 6 hours via GitHub Actions</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="190" src="https://ghstats.dev/api/card?username=aliashfak178&theme=radical&show_icons=true&border_radius=16" alt="GitHub stats"/>
 &nbsp;
-<img height="190" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aliashfak178&layout=compact&langs_count=8&theme=radical&hide_border=false&border_radius=16"/>
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliashfak178&theme=radical" alt="Top languages"/>
 
 <br/><br/>
 
