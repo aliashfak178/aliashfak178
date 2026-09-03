@@ -210,30 +210,6 @@ Python / ML             : ▰▰▰▰▰▱▱▱▱▱  60%  █████�
 
 <br/>
 
-## 📅 COMMIT ACTIVITY
-
-<div align="center">
-
-<!-- Live stats: commits, this week, streak, contributions -->
-<img height="190" src="https://ghstats.dev/api/card?username=aliashfak178&theme=radical&custom_title=Commit%20Activity&hide=stars,issues,repos,followers,prs,avg,trend,grade,active_day&show_icons=true&border_radius=16" alt="Commit activity stats"/>
-
-<br/><br/>
-
-<!-- Today | Week | Month | Year (PNG - always renders on GitHub) -->
-<img src="assets/commit-stats.png" alt="Commits today, this week, this month, this year"/>
-
-<br/>
-
-<img src="https://ghstats.dev/api/mini?username=aliashfak178&theme=radical&style=for-the-badge&hide=stars,issues,repos,followers,prs,contributions,avg,trend,grade,active_day,streak" alt="Commits this week"/>
-&nbsp;
-<img src="https://ghstats.dev/api/mini?username=aliashfak178&theme=radical&style=for-the-badge&hide=stars,issues,repos,followers,prs,week,contributions,avg,trend,grade,active_day,streak" alt="Total commits this year"/>
-
-<sub>4-panel stats use live GitHub contribution data | Auto-refreshes every 6 hours</sub>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <img height="190" src="https://ghstats.dev/api/card?username=aliashfak178&theme=radical&show_icons=true&border_radius=16" alt="GitHub stats"/>
